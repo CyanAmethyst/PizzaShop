@@ -9,3 +9,14 @@ C:\Users\opilane\source\repos\PizzaShop\PizzaShop\obj\Debug\netcoreapp3.1\PizzaS
 C:\Users\opilane\source\repos\PizzaShop\PizzaShop\obj\Debug\netcoreapp3.1\PizzaShop.AssemblyInfo.cs
 C:\Users\opilane\source\repos\PizzaShop\PizzaShop\obj\Debug\netcoreapp3.1\PizzaShop.dll
 C:\Users\opilane\source\repos\PizzaShop\PizzaShop\obj\Debug\netcoreapp3.1\PizzaShop.pdb
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\Programmeerimine\PizzaShop\PizzaShop\bin\Debug\netcoreapp3.1\PizzaShop.exe
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\Programmeerimine\PizzaShop\PizzaShop\bin\Debug\netcoreapp3.1\PizzaShop.deps.json
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\Programmeerimine\PizzaShop\PizzaShop\bin\Debug\netcoreapp3.1\PizzaShop.runtimeconfig.json
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\Programmeerimine\PizzaShop\PizzaShop\bin\Debug\netcoreapp3.1\PizzaShop.runtimeconfig.dev.json
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\Programmeerimine\PizzaShop\PizzaShop\bin\Debug\netcoreapp3.1\PizzaShop.dll
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\Programmeerimine\PizzaShop\PizzaShop\bin\Debug\netcoreapp3.1\PizzaShop.pdb
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\Programmeerimine\PizzaShop\PizzaShop\obj\Debug\netcoreapp3.1\PizzaShop.csprojAssemblyReference.cache
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\Programmeerimine\PizzaShop\PizzaShop\obj\Debug\netcoreapp3.1\PizzaShop.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\Programmeerimine\PizzaShop\PizzaShop\obj\Debug\netcoreapp3.1\PizzaShop.AssemblyInfo.cs
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\Programmeerimine\PizzaShop\PizzaShop\obj\Debug\netcoreapp3.1\PizzaShop.dll
+C:\Users\Kasutaja\Desktop\Janne\Koolitööd\Programmeerimine\PizzaShop\PizzaShop\obj\Debug\netcoreapp3.1\PizzaShop.pdb

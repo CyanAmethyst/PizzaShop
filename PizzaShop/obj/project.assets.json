@@ -8,27 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\opilane\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\Kasutaja\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\PizzaShop\\PizzaShop\\PizzaShop.csproj",
+      "projectUniqueName": "C:\\Users\\Kasutaja\\Desktop\\Janne\\Koolitööd\\Programmeerimine\\PizzaShop\\PizzaShop\\PizzaShop.csproj",
       "projectName": "PizzaShop",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\PizzaShop\\PizzaShop\\PizzaShop.csproj",
-      "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\PizzaShop\\PizzaShop\\obj\\",
+      "projectPath": "C:\\Users\\Kasutaja\\Desktop\\Janne\\Koolitööd\\Programmeerimine\\PizzaShop\\PizzaShop\\PizzaShop.csproj",
+      "packagesPath": "C:\\Users\\Kasutaja\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kasutaja\\Desktop\\Janne\\Koolitööd\\Programmeerimine\\PizzaShop\\PizzaShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Kasutaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

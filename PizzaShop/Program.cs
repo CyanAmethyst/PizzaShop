@@ -6,7 +6,8 @@ namespace PizzaShop
     {
         static void Main(string[] args)
         {
-            
+            PizzaMenu menu = new PizzaMenu();
+            menu.MakePizza();
         }
     }
 }
